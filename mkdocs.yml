@@ -1,0 +1,13 @@
+site_name: Rich Siegel
+site_description: The resume of Rich Siegel
+site_author: Rich Siegel
+docs_dir: resume
+pages:
+- Home: 'index.md'
+- Experience:
+    - 'ISE': 'ise.md'
+- About Me:
+    - 'Skills': 'skills.md'
+    - 'Projects': 'projects.md'
+    - 'Contact Me': 'contact.md'
+theme: cyborg
